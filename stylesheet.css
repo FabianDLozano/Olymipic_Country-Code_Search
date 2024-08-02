@@ -1,0 +1,9 @@
+nav {
+  background-color: rgb(249, 218, 155);
+}
+li {
+  display: block;
+  margin: middle;
+  font-size: x-large;
+  padding: 4px;
+}
